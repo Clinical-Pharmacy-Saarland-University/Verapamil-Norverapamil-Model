@@ -1,5 +1,5 @@
 ## Verapamil-Norverapamil-Model
-Mechanistic PBPK model of verapamil (clinical CYP3A4/Pgp inhibitor) 
+Mechanistic PBPK model of verapamil (clinical CYP3A4/Pgp inhibitor).
 
 ### Repository files
 Within this repository, we share a whole-body PBPK model of verapamil that includes the R- and S-enantiomers of verapamil and norverapamil, with PK-Sim observers for total verapamil (and norverapamil) in plasma and urine. The model was developed using data of 45 clinical studies (dosing range 0.1–250 mg), and qualified for DDI prediction with the CYP3A4 and Pgp victim drugs midazolam and digoxin, as well as with the CYP3A4 perpetrator drugs rifampicin and cimetidine. 
